@@ -3,7 +3,11 @@
     "title": "tm2"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "a"
+      }
+    ],
     "diagrams": [
       {
         "title": "vm",
